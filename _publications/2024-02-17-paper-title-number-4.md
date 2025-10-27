@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 4"
+title: "Augmented Reality for Warehouse: Aid System for Foreign Workers"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'A user-centered augmented reality aid system designed to support foreign warehouse workers by overlaying intuitive visual symbols directly on real-world objects, improving performance, safety, and usability compared to verbal instructions.'
+date: 2023-03-25
+venue: '2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)'
+paperurl: 'https://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10108591'
+citation: 'Ahmad Albawaneh, Venkata Agnihothram, Jiang Wu, Goutam Singla, and Hyungil Kim. (2023). <i>Augmented Reality for Warehouse: Aid System for Foreign Workers</i>. In <i>2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>, pp. 432–433. IEEE.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Order picking in inventory warehouses is one of the challenging tasks, especially for foreign workers due to language barriers found in current order picking instructions. To address this challenge, we took a user-centered design approach and developed an augmented reality (AR) aid system using a head-worn display (HWD). 
+
+Unlike most AR warehouse aid systems that present icons or texts on fixed locations of the display, this system directly overlays visual symbols atop real-world objects to better guide workers' tasks. A pilot user study demonstrated that the proposed AR system improved user performance, perceived safety, and usability compared to traditional verbal instructions.
+
+This work highlights the importance of designing AR solutions that bridge the gap between end-users and available technologies in warehouse environments.
