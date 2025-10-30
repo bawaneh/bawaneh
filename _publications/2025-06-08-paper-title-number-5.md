@@ -1,5 +1,5 @@
 ---
-title: "PExploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments"
+title: "Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
