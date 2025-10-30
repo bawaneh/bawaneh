@@ -34,6 +34,7 @@ My research lies at the intersection of **Human–Computer Interaction (HCI)** a
 - **AR Order-Picking Aid (Submitted).** Multilingual, step-wise spatial guidance for warehouse workers.  
 - **HYU Collaboration (Study in progress).** Joint project with **HYU** (details forthcoming).  
 - **Review: XR and AI (Study in progress).** A structured synthesis of XR–AI methods for adaptive interaction and evaluation.
+
 See the [**Projects**]({{ site.baseurl }}/portfolio/) page for the full list.
 
 ---
@@ -42,6 +43,7 @@ See the [**Projects**]({{ site.baseurl }}/portfolio/) page for the full list.
 - Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments 2025
 - Rapid Prototyping & Evaluation of Crew Stations to Support Manned-Unmanned teaming 2025
 - External Human-Machine Interface for Robotaxis 2024
+
 See the [**Publications**]({{ site.baseurl }}/publications/) page for the full list.
 
 ---
@@ -49,7 +51,7 @@ See the [**Publications**]({{ site.baseurl }}/publications/) page for the full l
 ### 🎤 Recent Talks
 - *Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments* — **HFES Annual Meeting 2025**  
 
-See the [**Talsk**]({{ site.baseurl }}/talks/) page for the full list.
+See the [**Talks**]({{ site.baseurl }}/talks/) page for the full list.
 ---
 
 ### 🧠 Teaching & Mentorship 
