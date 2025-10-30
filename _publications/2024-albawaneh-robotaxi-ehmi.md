@@ -1,5 +1,5 @@
 ---
-title: "External Human-Machine Interface for Robotaxis"
+title: "2024 External Human-Machine Interface for Robotaxis"
 collection: publications
 category: conferences
 permalink: /publication/2024-albawaneh-robotaxi-ehmi.md
