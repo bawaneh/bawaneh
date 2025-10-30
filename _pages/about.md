@@ -35,7 +35,7 @@ My research lies at the intersection of **Human–Computer Interaction (HCI)** a
 - **HYU Collaboration (Study in progress).** Joint project with **HYU** (details forthcoming).  
 - **Review: XR and AI (Study in progress).** A structured synthesis of XR–AI methods for adaptive interaction and evaluation.
 
-See the [**Projects**]({{ site.baseurl }}/portfolio/) page for the full list.
+
 
 ---
 
@@ -49,9 +49,11 @@ See the [**Publications**]({{ site.baseurl }}/publications/) page for the full l
 ---
 
 ### 🎤 Recent Talks
-- *Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments* — **HFES Annual Meeting 2025**  
+- *Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments* — **HFES Annual Meeting 2025**
+- *External Human–Machine Interface for Robotaxis* - **IEEE VR Workshops, 2024**
+- *Augmented Reality Order Picking Aid for Foreign Workers* - **HFES / IEEE VR Workshops, 2023**
 
-See the [**Talks**]({{ site.baseurl }}/talks/) page for the full list.
+
 ---
 
 ### 🧠 Teaching & Mentorship 
