@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Ahmad Albawaneh Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * **Ph.D., Industrial Engineering and Operations Research**, University of Illinois Chicago (UIC), *Jan 2024 – Present*  
-  *Advisor:* **Dr. Hyung-il (Hy) Kim**, Human-Centered Engineering (HCE) Lab  
+  *Advisor:* **Dr. Hyungil (Hy) Kim**, Human-Centered Engineering (HCE) Lab  
   *Focus:* Human–Computer Interaction (HCI), Extended Reality (XR), Human–Robot Interaction (HRI), Adaptive & AI-Driven Interfaces
-* **Bachelor's in Computer Information Systems.
+* **Bachelor's in Computer Information Systems**.ALbalqa Applied University *Feb 2016 – June 2019*  
 
 ---
 
@@ -92,7 +94,7 @@ Service & Leadership
 
 Professional Links
 ======
-* **Lab:** [Human-Centered Engineering Lab (UIC)](https://hcelab.uic.edu/)  
+* **Lab:** [Human-Centered Engineering Lab (UIC)](https://sites.google.com/view/human-centered-engineering/home)  
 * **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=ywoPBf8AAAAJ&hl=en)  
 * **ResearchGate:** [Ahmad Albawaneh](https://www.researchgate.net/profile/Ahmad-Albawaneh-2)  
 * **LinkedIn:** [linkedin.com/in/ahmadbawaneh](https://linkedin.com/in/ahmadbawaneh)
