@@ -1,13 +1,12 @@
 ---
-title: "Augmented Reality Order Picking Aid for Foreign Workers in Warehouses"
+title: "2023 Augmented Reality Order Picking Aid for Foreign Workers in Warehouses"
 collection: publications
 category: conferences
 permalink: /publication/2023-03-05-Augmented_reality_for_warehouse.md
 excerpt: 'AR concept and prototype that supports non-native speakers in order picking; discusses inclusive design cues and task-guidance strategies.'
 date: 2023-09-01
 venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting'
-slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1177/21695067231192868'
 citation: 'Albawaneh, A., Venkatesha Murthy, S., Singla, G., Wu, J., & Kim, H. (2023). Augmented Reality Order Picking Aid for Foreign Workers in Warehouses. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1), 1508-1509. https://doi.org/10.1177/21695067231192868 (Original work published 2023'
 ---
 
