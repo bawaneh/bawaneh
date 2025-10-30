@@ -18,46 +18,49 @@ My research lies at the intersection of **Human–Computer Interaction (HCI)** a
 
 ### 🔬 Research Focus
 
-- **Adaptive & AI-Driven Interfaces:** Designing XR systems that adapt to users’ cognitive and emotional states in real time.  
-- **Human–Robot Interaction (HRI):** Investigating how humans perceive and interact with intelligent agents, autonomous vehicles, and delivery robots.  
-- **Extended Reality (XR):** Evaluating performance and usability in AR/VR environments to enhance situational awareness and safety.  
-- **Inclusive Design:** Supporting non-native speakers and diverse populations in industrial and transportation contexts through accessible interface design.
+- **Adaptive & AI-Driven Interfaces.** XR systems that respond to users’ cognitive state and task context in real time.  
+- **Human–Robot Interaction (HRI).** Communication and coordination with intelligent agents, autonomous vehicles, and delivery robots.  
+- **XR Evaluation.** Performance, safety, immersion, and situational awareness in VR/AR tasks.  
+- **Inclusive Design.** Interface strategies that support non-native speakers and novice users in industrial and transportation domains.
 
 ---
 
+
 ### 🧩 Projects
-- **Prosocial Feedback in Micromobility** – Exploring feedback mechanisms to promote courteous behavior among e-scooter riders in shared urban environments (in collaboration with *Honda Research Institute*). 
-- **External HMI for Robotaxis** – Studying how communication between autonomous vehicles and pedestrians can be improved through visual and spatial cues in VR simulations.   
-- **Augmented Reality Order Picking Aid** – Designing AR systems for multilingual warehouse workers to reduce cognitive load and improve task accuracy.  
-- **User study**: Augmented Reality Order Picking Aid for Foreign Workers in Warehouses
+
+### Ongoing
+- **Prosocial Feedback in Micromobility (Submitted).** Feedback designs to encourage courteous riding behavior among e-scooter users (with **Honda Research Institute**).  
+- **External HMI for Robotaxis (Submitted).** VR-based evaluation of vehicle-mounted communication cues to support safer boarding.  
+- **AR Order-Picking Aid (Submitted).** Multilingual, step-wise spatial guidance for warehouse workers.  
+- **HYU Collaboration (Study in progress).** Joint project with **HYU** (details forthcoming).  
+- **Review: XR and AI (Study in progress).** A structured synthesis of XR–AI methods for adaptive interaction and evaluation.
+See the [**Projects**]({{ site.baseurl }}/portfolio/) page for the full list.
 
 ---
 
 ### 🏆 Selected Publications
-- Albawaneh, A., Nugent, B., Mayangamutse, P., Veeramachaneni, A., & Kim, H. (2024). *External Human–Machine Interface for Robotaxis.* **IEEE VR 2024 Workshops.**  
-- Albawaneh, A., Agnihothram, V., Wu, J., Singla, G., & Kim, H. (2023). *Augmented Reality for Warehouse: Aid System for Foreign Workers.* **IEEE VR 2023 Workshops.**  
-- Albawaneh, A., Venkatesha Murthy, S., Singla, G., Wu, J., & Kim, H. (2023). *Augmented Reality Order Picking Aid for Foreign Workers in Warehouses.* **HFES 2023 Proceedings.**
-
+- Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments 2025
+- Rapid Prototyping & Evaluation of Crew Stations to Support Manned-Unmanned teaming 2025
+- External Human-Machine Interface for Robotaxis 2024
 See the [**Publications**]({{ site.baseurl }}/publications/) page for the full list.
 
 ---
 
 ### 🎤 Recent Talks
 - *Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive Virtual Environments* — **HFES Annual Meeting 2025**  
-- *Adaptive and Inclusive XR Interfaces for Human–Machine Teaming* — **UIC Human-Centered Engineering Seminar (2025)**  
 
+See the [**Talsk**]({{ site.baseurl }}/talks/) page for the full list.
 ---
 
-### 🧠 Teaching & Mentorship
-- **Graduate Research Assistant**, Human-Centered Engineering Lab (UIC)  
+### 🧠 Teaching & Mentorship 
 - **Teaching Assistant**, [IE 342](https://catalog.uic.edu/all-course-descriptions/ie/) Probability and Statistics for Engineers (Spring 2024, Fall 2025) 
-- Mentoring undergraduate researchers in AR/VR usability testing and experimental design.
+- Mentoring undergraduate researchers in HCE Lab, Human-Centered Engineering Lab (UIC).
 
 ---
 
 ### 🌐 Connect
 - 📧 **Email:** [aalba@uic.edu](mailto:aalba@uic.edu)  
-- 🏫 **Lab:** [Human-Centered Engineering Lab, UIC](https://hcilab.uic.edu/)  
+- 🏫 **Lab:** [Human-Centered Engineering Lab, UIC](https://sites.google.com/view/human-centered-engineering) 
 - 🧾 [Google Scholar](https://scholar.google.com/citations?user=ywoPBf8AAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmad-Albawaneh-2) • [LinkedIn](https://linkedin.com/in/ahmadbawaneh)  
 
 ---
