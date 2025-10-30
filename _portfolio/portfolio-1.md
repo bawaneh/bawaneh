@@ -10,5 +10,6 @@ video:
 excerpt: "Feedback designs that encourage courteous riding in shared spaces, studied in VR with objective and subjective measures."
 tags: [VR, HCI, prosocial, Honda Research Institute]
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- **Goal:** Promote courteous, safe riding behavior using **in-experience feedback**.
+- **Design:** Visual/auditory cues and performance summaries after task blocks.
+- **Measures:** Engagement time, safety envelope incursions, SUS/SART, and post-hoc interviews.
