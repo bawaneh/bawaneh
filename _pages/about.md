@@ -9,7 +9,7 @@ redirect_from:
 
 
 I am **Ahmad Albawaneh**, a Ph.D. student in **Industrial Engineering and Operations Research** at the **University of Illinois Chicago [HCE Lab](https://sites.google.com/view/human-centered-engineering)**, advised by [**Dr. Hyungil (Hy) Kim**](https://mie.uic.edu/profiles/kim-hyungil/).  
-My research lies at the intersection of **Human–Computer Interaction (HCI)** and **Extended Reality (XR)** - including **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Artificial Intelligence (AI)** — with a focus on creating **adaptive**, **context-aware**, and **inclusive** interfaces that improve **human–machine cooperation**.
+My research lies at the intersection of **Human–Computer Interaction (HCI)** and **Extended Reality (XR)** - including **Virtual Reality (VR)**, and **Augmented Reality (AR)**- and **Artificial Intelligence (AI)**  with a focus on creating **adaptive**, **context-aware**, and **inclusive** interfaces that improve **human–machine cooperation**.
 
 
 
