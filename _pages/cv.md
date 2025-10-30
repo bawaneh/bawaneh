@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,95 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D., Industrial Engineering and Operations Research**, University of Illinois Chicago (UIC), *Jan 2024 – Present*  
+  *Advisor:* **Dr. Hyung-il (Hy) Kim**, Human-Centered Engineering (HCE) Lab  
+  *Focus:* Human–Computer Interaction (HCI), Extended Reality (XR), Human–Robot Interaction (HRI), Adaptive & AI-Driven Interfaces
+* **B.Eng., Industrial Engineering**, *prior institution information available upon request*  
 
-Work experience
+---
+
+Research Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**, Human-Centered Engineering Lab, UIC, *2024 – Present*  
+  *Projects:* External HMI for Robotaxis; AR Order-Picking Systems; Prosocial Behavior in Micromobility (with Honda Research Institute); EMG-Driven Interaction Models; VST vs. OST AR comparison.  
+  *Collaborations:* **Honda Research Institute (HRI)**, **U.S. GVSC**, and **HYU (Ongoing collaboration)**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **External Human–Machine Interface for Robotaxis** — *IEEE VR Workshops 2024*  
+  Designed and evaluated visual eHMI cues for robotaxis in VR to improve communication, trust, and boarding safety.
+* **AR Order Picking Aid for Foreign Workers** — *IEEE VR & HFES 2023*  
+  Developed language-independent AR guidance systems for multilingual warehouse environments.
+* **Prosocial Behavior in Micromobility** — *HFES 2025*  
+  Explored adaptive ride feedback systems to encourage safe, courteous e-scooter behavior (with HRI).
+* **Rapid Prototyping for Manned–Unmanned Teaming** — *IEEE VR Workshops 2025*  
+  Created a crew-station simulation for adaptive human–robot collaboration.
+* **Review: XR and AI (In Progress)**  
+  Scoping review on XR–AI integration and adaptive interfaces for immersive systems.
+
+---
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+Conference Presentations & Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* *Exploring Micromobility Users’ Prosocial Behavior with Ride Feedback in Immersive VR*, HFES Annual Meeting, 2025  
+* *External Human–Machine Interface for Robotaxis*, IEEE VR Workshops, 2024  
+* *Augmented Reality Order Picking Aid for Foreign Workers*, HFES / IEEE VR Workshops, 2023  
+
+---
+
+Teaching & Mentorship
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Teaching Assistant**, University of Illinois Chicago  
+  *IE 342 — Engineering Statistics* (Spring 2024, Fall 2025) (managing homeworks, grading, office hours)  
+* **Mentorship:** Guided undergraduate students on XR usability testing, Unity/Unreal prototyping, and experimental design.
+
+---
+
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams
+* **XR & Simulation:** Unity, Unreal Engine 5, CARLA, Blender, Haptics  
+* **Programming & Data:** Python (pandas, numpy, scikit-learn, statsmodels), MATLAB, R  
+* **Experimental Methods:** HCI/HF study design, SUS & SART, EMG and motion data analysis  
+* **Statistics & Modeling:** Repeated-Measures ANOVA, Linear Mixed Models, Nonparametric tests  
+* **Tooling:** Git/GitHub, LaTeX/Overleaf, Figma, Final Cut Pro, Jekyll (GitHub Pages)  
+* **Domains:** HCI, XR (VR/AR/MR), HRI, Adaptive Interfaces, Prosocial Behavior  
+
+---
+
+Awards & Recognition
+======
+* Conference acceptances at **IEEE VR (2023–2025)** and **HFES (2023–2025)**.  
+* Collaborative research with **Honda Research Institute** and **U.S. GVSC**.  
+
+---
+
+Service & Leadership
+======
+* **Student Member:** HFES, IEEE  
+* Active contributor to the **HFES XR Technical Group (XR-TG)**  
+* Mentoring and outreach activities via the **HCE Lab, UIC**
+
+---
+
+Professional Links
+======
+* **Lab:** [Human-Centered Engineering Lab (UIC)](https://hcelab.uic.edu/)  
+* **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=ywoPBf8AAAAJ&hl=en)  
+* **ResearchGate:** [Ahmad Albawaneh](https://www.researchgate.net/profile/Ahmad-Albawaneh-2)  
+* **LinkedIn:** [linkedin.com/in/ahmadbawaneh](https://linkedin.com/in/ahmadbawaneh)
+
+---
+
+Last Updated
+======
+*{{ site.time | date: "%B %Y" }}*
