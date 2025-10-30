@@ -2,7 +2,6 @@
 title: "2024 External Human-Machine Interface for Robotaxis"
 collection: publications
 category: conferences
-permalink: /publication/2024-albawaneh-robotaxi-ehmi.md
 excerpt: 'Design and evaluation of an external human-machine interface (eHMI) for robotaxis in a VR/AR environment, enabling clearer communication with external road actors.'
 date: 2024-03-16
 venue: 'IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VR Workshops)'
