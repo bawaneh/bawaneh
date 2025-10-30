@@ -1,5 +1,5 @@
 ---
-title: "2024 External Human-Machine Interface for Robotaxis"
+title: "2024 - External Human-Machine Interface for Robotaxis"
 collection: publications
 category: conferences
 excerpt: 'Design and evaluation of an external human-machine interface (eHMI) for robotaxis in a VR/AR environment, enabling clearer communication with external road actors.'
