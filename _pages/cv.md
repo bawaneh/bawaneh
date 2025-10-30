@@ -14,15 +14,14 @@ Education
 * **Ph.D., Industrial Engineering and Operations Research**, University of Illinois Chicago (UIC), *Jan 2024 – Present*  
   *Advisor:* **Dr. Hyung-il (Hy) Kim**, Human-Centered Engineering (HCE) Lab  
   *Focus:* Human–Computer Interaction (HCI), Extended Reality (XR), Human–Robot Interaction (HRI), Adaptive & AI-Driven Interfaces
-* **B.Eng., Industrial Engineering**, *prior institution information available upon request*  
+* **Bachelor's in Computer Information Systems.
 
 ---
 
 Research Appointments
 ======
 * **Graduate Research Assistant**, Human-Centered Engineering Lab, UIC, *2024 – Present*  
-  *Projects:* External HMI for Robotaxis; AR Order-Picking Systems; Prosocial Behavior in Micromobility (with Honda Research Institute); EMG-Driven Interaction Models; VST vs. OST AR comparison.  
-  *Collaborations:* **Honda Research Institute (HRI)**, **U.S. GVSC**, and **HYU (Ongoing collaboration)**
+  **Graduate Research Assistant**, Human-Centered Engineering Lab, Oakland Univeristy, *2022 – 2024* 
 
 ---
 
