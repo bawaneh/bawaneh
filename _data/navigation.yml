@@ -12,8 +12,8 @@ main:
     url: /publications/
   - title: "Resume"
     url: /cv/
-  - title: "Projects"
-    url: /portfolio/
+ # - title: "Projects"
+ #   url: /portfolio/
 
  # - title: "Talks"
   #  url: /talks/    
