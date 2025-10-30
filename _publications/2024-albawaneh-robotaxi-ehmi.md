@@ -6,8 +6,7 @@ permalink: /publication/2024-albawaneh-robotaxi-ehmi.md
 excerpt: 'Design and evaluation of an external human-machine interface (eHMI) for robotaxis in a VR/AR environment, enabling clearer communication with external road actors.'
 date: 2024-03-16
 venue: 'IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VR Workshops)'
-slidesurl: ""
-paperurl: ""
+paperurl: "https://journals.sagepub.com/doi/10.1177/10711813251369370"
 citation: 'Ahmad Albawaneh, Blaise Nugent, Panashe Mayangamutse, Abhishek Veeramachaneni, Hyungil Kim. (2024). <i>External Human-Machine Interface for Robotaxis</i>. In <i>2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts & Workshops (VRW)</i>, pp. 257-258. IEEE.'
 ---
 
