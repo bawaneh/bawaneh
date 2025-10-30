@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-I am **Ahmad Albawaneh**, a Ph.D. student in **Industrial Engineering and Operations Research** at the **University of Illinois Chicago (HCE Lab)**, advised by **Dr. Hyungil (Hy) Kim**.  
-My research lies at the intersection of **Human–Computer Interaction (HCI)** and **Extended Reality (XR)** — including **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Human–Robot Interaction (HRI)** — with a focus on creating **adaptive**, **context-aware**, and **inclusive** interfaces that improve **human–machine cooperation**.
+I am **Ahmad Albawaneh**, a Ph.D. student in **Industrial Engineering and Operations Research** at the **University of Illinois Chicago [HCE Lab](https://sites.google.com/view/human-centered-engineering)**, advised by [**Dr. Hyungil (Hy) Kim**](https://mie.uic.edu/profiles/kim-hyungil/).  
+My research lies at the intersection of **Human–Computer Interaction (HCI)** and **Extended Reality (XR)** - including **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Artificial Intelligence (AI)** — with a focus on creating **adaptive**, **context-aware**, and **inclusive** interfaces that improve **human–machine cooperation**.
 
 
 
-======
+---
 
 
 ### 🔬 Research Focus
@@ -25,11 +25,11 @@ My research lies at the intersection of **Human–Computer Interaction (HCI)** a
 
 ---
 
-### 🧩 Current Projects
-- **External HMI for Robotaxis** – Studying how communication between autonomous vehicles and pedestrians can be improved through visual and spatial cues in VR simulations.  
-- **Prosocial Feedback in Micromobility** – Exploring feedback mechanisms to promote courteous behavior among e-scooter riders in shared urban environments (in collaboration with *Honda Research Institute*).  
+### 🧩 Projects
+- **Prosocial Feedback in Micromobility** – Exploring feedback mechanisms to promote courteous behavior among e-scooter riders in shared urban environments (in collaboration with *Honda Research Institute*). 
+- **External HMI for Robotaxis** – Studying how communication between autonomous vehicles and pedestrians can be improved through visual and spatial cues in VR simulations.   
 - **Augmented Reality Order Picking Aid** – Designing AR systems for multilingual warehouse workers to reduce cognitive load and improve task accuracy.  
-- **AI-based Hand Interaction Modeling** – Using EMG data and machine learning to predict user intent and enhance hand-based VR interaction fidelity.
+- **User study**: Augmented Reality Order Picking Aid for Foreign Workers in Warehouses
 
 ---
 
@@ -50,7 +50,7 @@ See the [**Publications**]({{ site.baseurl }}/publications/) page for the full l
 
 ### 🧠 Teaching & Mentorship
 - **Graduate Research Assistant**, Human-Centered Engineering Lab (UIC)  
-- **Teaching Assistant**, IE 342 – *Engineering Statistics* and IE 473 – *Stochastic Processes & Queuing Models*  
+- **Teaching Assistant**, [IE 342](https://catalog.uic.edu/all-course-descriptions/ie/) Probability and Statistics for Engineers (Spring 2024, Fall 2025) 
 - Mentoring undergraduate researchers in AR/VR usability testing and experimental design.
 
 ---
