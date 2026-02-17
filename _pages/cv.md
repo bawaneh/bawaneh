@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * **Ph.D., Industrial Engineering and Operations Research**, University of Illinois Chicago (UIC), *Jan 2024 – Present*  
-  *Advisor:* **Dr. Hyungil (Hy) Kim**, Human-Centered Engineering (HCE) Lab  
-  *Focus:* Human–Computer Interaction (HCI), Extended Reality (XR), Human–Robot Interaction (HRI), Adaptive & AI-Driven Interfaces
+  , Human-Centered Engineering (HCE) Lab  
+  *Focus:* Human Factors, Extended Reality (VR,AR,MR), Human–Robot Teaming, Virtual Expermintation*
 * **Bachelor's in Computer Information Systems**.ALbalqa Applied University *Feb 2016 – June 2019*  
 
 ---
