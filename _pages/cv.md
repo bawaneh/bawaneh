@@ -61,7 +61,7 @@ Professional Links
 * **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=ywoPBf8AAAAJ&hl=en)  
 * **ResearchGate:** [Ahmad Albawaneh](https://www.researchgate.net/profile/Ahmad-Albawaneh-2)  
 * **LinkedIn:** [linkedin.com/in/ahmadbawaneh](https://linkedin.com/in/ahmadbawaneh)
-* * **Lab:** [Human-Centered Engineering Lab (UIC)](https://sites.google.com/view/human-centered-engineering/home)  
+* **Lab:** [Human-Centered Engineering Lab (UIC)](https://sites.google.com/view/human-centered-engineering/home)  
 
 ---
 
