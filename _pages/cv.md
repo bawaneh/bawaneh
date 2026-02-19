@@ -31,7 +31,7 @@ Research Appointments
 Research Community Leadership
 ======
 * **Organizer**, International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS), IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026), 2026 
-  **Communications Director**, Human-Centered Engineering Lab, Oakland Univeristy, *2022 – 2024* 
+* **Communications Director**, Extended Reality Technical group (XRTG), Human Factors And Ergonomics *ASPIRE, 2026* 
 
 ---
 
